@@ -2,7 +2,7 @@ const account_id = 144553 //can't change
 let account_Email = "trisha@google.com"  //can change  //variable  declaration
 var account_Password ="52413"  //can change    //variable  declaration
 accountCity ="jaipur"     //variable  declaration
-let accountState ="Not completed";  //;is optional
+let accountState ="Not completed";  //;is optionalgit ini
 //account_id=23   // changes not allowed as it is const
 
 /*
