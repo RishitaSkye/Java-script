@@ -1,3 +1,5 @@
-let a = 10
-// const b = 20
-// var c = 30
+addTwo(5)
+
+// const addTwo = function (num){
+//     return num+2
+// }
