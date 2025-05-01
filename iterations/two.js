@@ -5,7 +5,7 @@ let index=0
      console.log(`value of index is ${index}`);
      index = index+2
  }
- 
+
  console.log();
  console.log();
  
@@ -25,5 +25,5 @@ console.log();
 let score=11
 do {
     console.log(`Score is ${score}`);
-    score++
+    score++;
 } while (score<=10);
